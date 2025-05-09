@@ -1,4 +1,4 @@
--- LUA GOD BUNDLE: Loader + UI in ONE
+-- LiadHub Loader (All-In-One)
 local player = game.Players.LocalPlayer
 
 local function showUI()
